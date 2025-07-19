@@ -1,0 +1,11 @@
+name: ChunkProtector
+version: 1.0
+main: me.zenrax.chunkprotector.ChunkProtector
+api-version: 1.19
+commands:
+  claim:
+    description: Bulunduğun chunk'ı korur
+  unclaim:
+    description: Chunk korumasını kaldırır
+  claims:
+    description: Tüm sahip olunan chunk'ları listeler
